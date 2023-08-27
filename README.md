@@ -1,6 +1,6 @@
 # 🎨 Damien Hirst-Inspired Dot Painting 🖼️
 
-Welcome to the **Damien Hirst-Inspired Dot Painting**  Step into the captivating world of contemporary art as you create your own digital masterpiece inspired by Damien Hirst's iconic dot paintings. Embark on a journey of colors, patterns, and creativity!
+Welcome to the **Damien Hirst-Inspired Dot Painting**!  Step into the captivating world of contemporary art as you create your own digital masterpiece inspired by Damien Hirst's iconic dot paintings. Embark on a journey of colors, patterns, and creativity!
 
 ## 🖼️ Introduction to the Artistry of Damien Hirst
 
@@ -24,15 +24,10 @@ The **Damien Hirst-Inspired Dot Painting** script pays homage to the artistic vi
 1. The color list showcases an exquisite array of hues inspired by your chosen image.
 2. Timmy's brushes dance with the elegance of these colors, creating a masterpiece that's uniquely yours.
 
-## 📷 Extracting Colors from Images
-
-1. Uncomment the code that utilizes the `colorgram` library to extract colors from an image.
-2. Replace 'images.jpg' with the file path of your chosen image.
-3. Watch as a palette of colors is revealed for your dot painting masterpiece.
 
 ## 📄 License to Immerse
 
-This creative endeavor falls under the MIT License. Dive into its artistic terms within the LICENSE file.
+This creative endeavor falls under the GNU GENERAL PUBLIC LICENSE. Dive into its artistic terms within the LICENSE file.
 
 ## 📞 Connect with the Art Curator
 
