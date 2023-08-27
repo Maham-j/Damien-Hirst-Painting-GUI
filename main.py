@@ -1,7 +1,7 @@
 # import colorgram
-#
+
 # colors = colorgram.extract('images.jpg',30)
-#
+
 # rgb_colors = []
 # for color in colors:
 #     r = color.rgb.r
