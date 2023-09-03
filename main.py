@@ -1,3 +1,4 @@
+#for importing colors from any pitcure
 # import colorgram
 
 # colors = colorgram.extract('images.jpg',30)
